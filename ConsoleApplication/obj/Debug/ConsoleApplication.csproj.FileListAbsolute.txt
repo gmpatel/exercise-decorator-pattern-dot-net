@@ -1,0 +1,14 @@
+X:\Projects\tfs\gmpatel\Interviews\Work\DecoratorPattern\ConsoleApplication\bin\Debug\ConsoleApplication.exe
+X:\Projects\tfs\gmpatel\Interviews\Work\DecoratorPattern\ConsoleApplication\bin\Debug\ConsoleApplication.pdb
+X:\Projects\tfs\gmpatel\Interviews\Work\DecoratorPattern\ConsoleApplication\bin\Debug\Core.dll
+X:\Projects\tfs\gmpatel\Interviews\Work\DecoratorPattern\ConsoleApplication\bin\Debug\CoreConcrete.dll
+X:\Projects\tfs\gmpatel\Interviews\Work\DecoratorPattern\ConsoleApplication\bin\Debug\Decorator.dll
+X:\Projects\tfs\gmpatel\Interviews\Work\DecoratorPattern\ConsoleApplication\bin\Debug\DecoratorConcrete.dll
+X:\Projects\tfs\gmpatel\Interviews\Work\DecoratorPattern\ConsoleApplication\bin\Debug\CoreConcrete.pdb
+X:\Projects\tfs\gmpatel\Interviews\Work\DecoratorPattern\ConsoleApplication\bin\Debug\Core.pdb
+X:\Projects\tfs\gmpatel\Interviews\Work\DecoratorPattern\ConsoleApplication\bin\Debug\DecoratorConcrete.pdb
+X:\Projects\tfs\gmpatel\Interviews\Work\DecoratorPattern\ConsoleApplication\bin\Debug\Decorator.pdb
+X:\Projects\tfs\gmpatel\Interviews\Work\DecoratorPattern\ConsoleApplication\obj\Debug\ConsoleApplication.csprojResolveAssemblyReference.cache
+X:\Projects\tfs\gmpatel\Interviews\Work\DecoratorPattern\ConsoleApplication\obj\Debug\ConsoleApplication.csproj.CoreCompileInputs.cache
+X:\Projects\tfs\gmpatel\Interviews\Work\DecoratorPattern\ConsoleApplication\obj\Debug\ConsoleApplication.exe
+X:\Projects\tfs\gmpatel\Interviews\Work\DecoratorPattern\ConsoleApplication\obj\Debug\ConsoleApplication.pdb

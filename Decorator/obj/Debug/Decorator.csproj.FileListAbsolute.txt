@@ -1,0 +1,8 @@
+X:\Projects\tfs\gmpatel\Interviews\Work\DecoratorPattern\Decorator\bin\Debug\Decorator.dll
+X:\Projects\tfs\gmpatel\Interviews\Work\DecoratorPattern\Decorator\bin\Debug\Decorator.pdb
+X:\Projects\tfs\gmpatel\Interviews\Work\DecoratorPattern\Decorator\bin\Debug\Core.dll
+X:\Projects\tfs\gmpatel\Interviews\Work\DecoratorPattern\Decorator\bin\Debug\Core.pdb
+X:\Projects\tfs\gmpatel\Interviews\Work\DecoratorPattern\Decorator\obj\Debug\Decorator.csprojResolveAssemblyReference.cache
+X:\Projects\tfs\gmpatel\Interviews\Work\DecoratorPattern\Decorator\obj\Debug\Decorator.csproj.CoreCompileInputs.cache
+X:\Projects\tfs\gmpatel\Interviews\Work\DecoratorPattern\Decorator\obj\Debug\Decorator.dll
+X:\Projects\tfs\gmpatel\Interviews\Work\DecoratorPattern\Decorator\obj\Debug\Decorator.pdb

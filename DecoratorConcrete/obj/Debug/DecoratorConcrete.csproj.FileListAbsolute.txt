@@ -1,0 +1,10 @@
+X:\Projects\tfs\gmpatel\Interviews\Work\DecoratorPattern\DecoratorConcrete\bin\Debug\DecoratorConcrete.dll
+X:\Projects\tfs\gmpatel\Interviews\Work\DecoratorPattern\DecoratorConcrete\bin\Debug\DecoratorConcrete.pdb
+X:\Projects\tfs\gmpatel\Interviews\Work\DecoratorPattern\DecoratorConcrete\bin\Debug\Core.dll
+X:\Projects\tfs\gmpatel\Interviews\Work\DecoratorPattern\DecoratorConcrete\bin\Debug\Decorator.dll
+X:\Projects\tfs\gmpatel\Interviews\Work\DecoratorPattern\DecoratorConcrete\bin\Debug\Core.pdb
+X:\Projects\tfs\gmpatel\Interviews\Work\DecoratorPattern\DecoratorConcrete\bin\Debug\Decorator.pdb
+X:\Projects\tfs\gmpatel\Interviews\Work\DecoratorPattern\DecoratorConcrete\obj\Debug\DecoratorConcrete.csprojResolveAssemblyReference.cache
+X:\Projects\tfs\gmpatel\Interviews\Work\DecoratorPattern\DecoratorConcrete\obj\Debug\DecoratorConcrete.csproj.CoreCompileInputs.cache
+X:\Projects\tfs\gmpatel\Interviews\Work\DecoratorPattern\DecoratorConcrete\obj\Debug\DecoratorConcrete.dll
+X:\Projects\tfs\gmpatel\Interviews\Work\DecoratorPattern\DecoratorConcrete\obj\Debug\DecoratorConcrete.pdb
